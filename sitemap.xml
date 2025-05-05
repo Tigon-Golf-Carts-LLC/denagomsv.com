@@ -72,9 +72,3 @@
     <priority>0.8</priority>
   </url>
 </urlset>
-<!-- Favicon PNG -->
-        <link rel="icon" type="image/png" sizes="32x32" href="images/DENAGO MEDIUM SPEED VEHICLES (2).png">
-        <link rel="shortcut icon" type="image/png" href="images/DENAGO MEDIUM SPEED VEHICLES (2).png" />
-        <!-- Favicon ICO -->
-        <link rel="icon" type="image/x-icon" href="/favicon.ico">
-        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
