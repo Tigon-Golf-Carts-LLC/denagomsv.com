@@ -3327,20 +3327,3 @@ input, select, textarea {
 			}
 
 		}
-/* Override all tile overlays to be solid blue by default */
-.tiles article > .image:before {
-  background-color: blue !important;
-  opacity: 0.8 !important;
-}
-
-/* When the user clicks (active) on the tile, hide the blue overlay so the image shows through */
-.tiles article:active > .image:before {
-  opacity: 0 !important;
-}
-
-/* (Optional) also remove on touch devices when tapping */
-@media (pointer: coarse) {
-  .tiles article:active > .image:before {
-    opacity: 0 !important;
-  }
-}
