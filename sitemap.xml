@@ -1,74 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Home -->
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <!-- Home DENAGO MEDIUM SPEED VEHICLES -->
   <url>
     <loc>https://denagomsv.com/</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO EV News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO Medium Speed Vehicles</news:title>
+    </news:news>
+    <!-- Site logo -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV CITY -->
   <url>
     <loc>https://denagomsv.com/DENAGO%C2%AE%20EV%20CITY.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/DENAGO%C2%AE%20EV%20CITY.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV CITY</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV CITY</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20NEV%20CITY.jpg</image:loc>
+      <image:caption>DENAGO® EV CITY</image:caption>
+      <image:title>DENAGO® EV CITY</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV NOMAD -->
   <url>
     <loc>https://denagomsv.com/DENAGO%C2%AE%20EV%20NOMAD.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/DENAGO%C2%AE%20EV%20NOMAD.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV NOMAD</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV NOMAD</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20NEV%20NOMAD.jpg</image:loc>
+      <image:caption>DENAGO® EV NOMAD</image:caption>
+      <image:title>DENAGO® EV NOMAD</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV NOMAD XL -->
   <url>
     <loc>https://denagomsv.com/DENAGO%C2%AE%20EV%20NOMAD%20XL.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/DENAGO%C2%AE%20EV%20NOMAD%20XL.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV NOMAD XL</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV NOMAD XL</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20NEV%20NOMAD%20XL.jpg</image:loc>
+      <image:caption>DENAGO® EV NOMAD XL</image:caption>
+      <image:title>DENAGO® EV NOMAD XL</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV ROVER XL -->
   <url>
     <loc>https://denagomsv.com/DENAGO%C2%AE%20EV%20ROVER%20XL.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/DENAGO%C2%AE%20EV%20ROVER%20XL.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV ROVER XL</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV ROVER XL</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20NEV%20ROVER%20XL.jpg</image:loc>
+      <image:caption>DENAGO® EV Rover XL</image:caption>
+      <image:title>DENAGO® EV ROVER XL</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV ROVER XL6 -->
   <url>
     <loc>https://denagomsv.com/DENAGO%C2%AE%20EV%20ROVER%20XL6.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/DENAGO%C2%AE%20EV%20ROVER%20XL6.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV ROVER XL6</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV ROVER XL6</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20NEV%20ROVER%20XL6.jpg</image:loc>
+      <image:caption>DENAGO® EV Rover XL6</image:caption>
+      <image:title>DENAGO® EV ROVER XL6</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
 
   <!-- DENAGO® EV ROVER XXL -->
   <url>
     <loc>https://denagomsv.com/DENAGO%C2%AE%20EV%20ROVER%20XXL.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/DENAGO%C2%AE%20EV%20ROVER%20XXL.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO® EV ROVER XXL</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>DENAGO® EV ROVER XXL</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20NEV%20ROVER%20XXL.jpg</image:loc>
+      <image:caption>DENAGO® EV Rover XXL</image:caption>
+      <image:title>DENAGO® EV ROVER XXL</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
 
   <!-- About Us -->
   <url>
     <loc>https://denagomsv.com/about.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/about.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Medium Speed Vehicles</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>About Us | DENAGO Medium Speed Vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/about-denago-ev.jpg</image:loc>
+      <image:caption>ABOUT DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>ABOUT DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
 
   <!-- Contact -->
   <url>
     <loc>https://denagomsv.com/contact.html</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/contact.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Medium Speed Vehicles</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>Contact | DENAGO Medium Speed Vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/contact-banner.jpg</image:loc>
+      <image:caption>CONTACT DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>CONTACT DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
   </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://denagomsv.com/privacy-policy.html</loc>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/privacy-policy.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Medium Speed Vehicles</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>Privacy Policy | DENAGO Medium Speed Vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+  </url>
+
+  <!-- Terms & Conditions -->
+  <url>
+    <loc>https://denagomsv.com/terms-conditions.html</loc>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/terms-conditions.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Medium Speed Vehicles</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>Terms &amp; Conditions | DENAGO Medium Speed Vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+  </url>
+
 </urlset>
