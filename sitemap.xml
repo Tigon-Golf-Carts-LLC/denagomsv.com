@@ -358,4 +358,36 @@
     </image:image>
   </url>
 
+  <!-- Return Policy -->
+  <url>
+    <loc>https://denagomsv.com/return-policy.html</loc>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/return-policy.html" />
+    <news:news>
+      <news:publication>
+        <news:name>DENAGO Medium Speed Vehicles</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-05T00:00:00-04:00</news:publication_date>
+      <news:title>Return Policy | DENAGO Medium Speed Vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+    <!-- Favicon -->
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MEDIUM%20SPEED%20VEHICLES%20(2).ico</image:loc>
+      <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
+      <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+  </url>
+
 </urlset>
