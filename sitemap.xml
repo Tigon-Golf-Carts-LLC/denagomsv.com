@@ -22,7 +22,7 @@
     </news:news>
     <!-- Site logo -->
     <image:image>
-      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:loc>https://denagomsv.com/images/logo.svg</image:loc>
       <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
       <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -54,9 +54,41 @@
       <news:title>Denago Golf Carts: Full Model Lineup &amp; Specs</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:loc>https://denagomsv.com/images/logo.svg</image:loc>
       <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
       <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+  </url>
+
+  <!-- DENAGO MSV For Sale -->
+  <url>
+    <loc>https://denagomsv.com/denago-msv-for-sale.html</loc>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/denago-msv-for-sale.html" />
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MSV%20NOMAD%20XL.jpg</image:loc>
+      <image:caption>DENAGO MSV FOR SALE</image:caption>
+      <image:title>DENAGO MSV FOR SALE</image:title>
+      <image:geo_location>United States</image:geo_location>
+      <image:license>https://denagomsv.com/</image:license>
+    </image:image>
+  </url>
+
+  <!-- DENAGO MSV Manual -->
+  <url>
+    <loc>https://denagomsv.com/denago-msv-manual.html</loc>
+    <lastmod>2025-05-05T00:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://denagomsv.com/denago-msv-manual.html" />
+    <image:image>
+      <image:loc>https://denagomsv.com/images/DENAGO%20MSV%20CITY.jpg</image:loc>
+      <image:caption>DENAGO MSV MANUAL</image:caption>
+      <image:title>DENAGO MSV MANUAL</image:title>
       <image:geo_location>United States</image:geo_location>
       <image:license>https://denagomsv.com/</image:license>
     </image:image>
@@ -430,7 +462,7 @@
       <news:title>Privacy Policy | DENAGO Medium Speed Vehicles</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:loc>https://denagomsv.com/images/logo.svg</image:loc>
       <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
       <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -462,7 +494,7 @@
       <news:title>Terms &amp; Conditions | DENAGO Medium Speed Vehicles</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:loc>https://denagomsv.com/images/logo.svg</image:loc>
       <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
       <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
       <image:geo_location>United States</image:geo_location>
@@ -494,7 +526,7 @@
       <news:title>Return Policy | DENAGO Medium Speed Vehicles</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://denagomsv.com/images/logo.png</image:loc>
+      <image:loc>https://denagomsv.com/images/logo.svg</image:loc>
       <image:caption>DENAGO MEDIUM SPEED VEHICLES</image:caption>
       <image:title>DENAGO MEDIUM SPEED VEHICLES</image:title>
       <image:geo_location>United States</image:geo_location>
